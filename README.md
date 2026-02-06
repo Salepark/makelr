@@ -1,3 +1,13 @@
+## License
+
+Makelr is source-available software licensed under the Makelr Community License.
+You may use it internally and modify it, but you may not offer it as a hosted service.
+See LICENSE.md for details.
+
+For commercial licensing inquiries, contact: contact@makelr.com
+
+---
+
 # Makelr — Build Your Automation, Your Way
 
 Makelr is a workflow designer for people who want to build their own automation — not rent someone else’s bots.
