@@ -149,3 +149,8 @@ We don’t sell bots.
 We build tools for people who build their own automation.
 
 Makelr — Build Your Automation, Your Way
+
+## License
+
+This project is governed by a custom license.
+See [LICENSE.md](./LICENSE.md) for details.
