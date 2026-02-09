@@ -6,7 +6,7 @@ The roadmap is a living document and will evolve based on user feedback, communi
 
 ---
 
-## 🎯 Vision
+## Vision
 
 Makelr aims to become:
 
@@ -18,7 +18,7 @@ Makelr aims to become:
 
 ---
 
-## ✅ Phase 1 — Foundations (Completed)
+## Phase 1 — Foundations (Completed)
 
 - Core workflow engine (Sources → Analyze → Draft → Report)
 - Bot-based workflow model
@@ -32,7 +32,7 @@ Makelr aims to become:
 
 ---
 
-## ✅ Phase 2 — Stability & Data Model (Completed)
+## Phase 2 — Stability & Data Model (Completed)
 
 - Improved schema & storage layer
 - Output history & report management
@@ -43,7 +43,7 @@ Makelr aims to become:
 
 ---
 
-## ✅ Phase 3 — BYO LLM (Completed)
+## Phase 3 — BYO LLM (Completed)
 
 - Bring Your Own LLM provider support
 - Multiple provider support (OpenAI, Anthropic, Gemini, compatible APIs)
@@ -54,7 +54,7 @@ Makelr aims to become:
 
 ---
 
-## ✅ Phase 4 — Presets & Onboarding (Completed)
+## Phase 4 — Presets & Onboarding (Completed)
 
 - Workflow recipe (preset) gallery
 - Guided wizard for creating bots from templates
@@ -66,7 +66,7 @@ Makelr aims to become:
 
 ---
 
-## ✅ Phase 6 — Command Console & Threads (Completed)
+## Phase 6 — Command Console & Threads (Completed)
 
 - Thread-based command console
 - Per-thread active bot context
@@ -81,7 +81,7 @@ Makelr aims to become:
 
 ---
 
-## 🚧 Phase 7 — UX & Productization (In Progress / Partially Done)
+## Phase 7 — UX & Productization (In Progress / Partially Done)
 
 - Reframed UI as "Workflow Designer"
 - Landing page rewrite
@@ -102,7 +102,7 @@ Planned additions:
 
 ---
 
-## 🛠️ Phase 8 — Extensibility & Integrations (Planned)
+## Phase 8 — Extensibility & Integrations (Planned)
 
 - Plugin / adapter system for:
   - New source types
@@ -115,7 +115,7 @@ Planned additions:
 
 ---
 
-## 🔐 Phase 9 — Collaboration & Teams (Planned)
+## Phase 9 — Collaboration & Teams (Planned)
 
 - Optional team workspaces
 - Role-based access control
@@ -125,7 +125,7 @@ Planned additions:
 
 ---
 
-## 🌍 Phase 10 — Ecosystem & Community (Planned)
+## Phase 10 — Ecosystem & Community (Planned)
 
 - Public workflow recipe sharing (optional)
 - Community-maintained presets
@@ -135,7 +135,7 @@ Planned additions:
 
 ---
 
-## 📌 Principles
+## Principles
 
 - Makelr is a **tool to build workflows**, not a content provider
 - Users **own their data, sources, and AI keys**
@@ -145,7 +145,7 @@ Planned additions:
 
 ---
 
-## 🤝 How to Contribute
+## How to Contribute
 
 If you want to help shape Makelr’s future:
 
@@ -156,7 +156,7 @@ If you want to help shape Makelr’s future:
 
 ---
 
-## 🧭 Roadmap Status Disclaimer
+## Roadmap Status Disclaimer
 
 This roadmap represents current intentions, not promises.  
 Priorities may change based on:
