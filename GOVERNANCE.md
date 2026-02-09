@@ -10,7 +10,7 @@ Makelr is an open-source, workflow-first automation platform. Its governance aim
 
 ---
 
-## 🎯 Project Mission
+## Project Mission
 
 Makelr exists to:
 
@@ -24,7 +24,7 @@ All governance decisions should align with this mission.
 
 ---
 
-## 🏛️ Project Structure
+## Project Structure
 
 ### 1. Project Maintainer
 
@@ -77,7 +77,7 @@ See `CONTRIBUTING.md` for contribution guidelines.
 
 ---
 
-## 🗳️ Decision Making Process
+## Decision Making Process
 
 ### 1. Day-to-day decisions
 
@@ -107,7 +107,7 @@ Process:
 
 ---
 
-## 🧱 Design Principles (Non-Negotiables)
+## Design Principles (Non-Negotiables)
 
 The following principles guide all decisions:
 
@@ -127,7 +127,7 @@ Any proposal violating these principles will likely be rejected.
 
 ---
 
-## 🔐 Security & Responsibility
+## Security & Responsibility
 
 - Security issues should follow `SECURITY.md`
 - The Maintainer coordinates security fixes and disclosures
@@ -138,7 +138,7 @@ Any proposal violating these principles will likely be rejected.
 
 ---
 
-## 📦 Releases
+## Releases
 
 - The Maintainer controls official releases
 - Releases may include:
@@ -148,7 +148,7 @@ Any proposal violating these principles will likely be rejected.
 
 ---
 
-## 🌱 Project Evolution
+## Project Evolution
 
 Makelr’s governance may evolve as:
 
@@ -164,7 +164,7 @@ Any governance changes will be:
 
 ---
 
-## 🤝 Code of Conduct
+## Code of Conduct
 
 All participants must follow:
 
@@ -174,7 +174,7 @@ Harassment, abuse, or bad-faith behavior will not be tolerated.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For governance-related questions:
 
