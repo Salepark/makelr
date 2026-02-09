@@ -19,7 +19,7 @@ It is a tool to design, control, and operate your own automation workflows.
 
 ---
 
-## ✨ What is Makelr?
+## What is Makelr?
 
 Makelr lets you design automation workflows by combining:
 
@@ -32,7 +32,7 @@ Instead of using pre-made bots, you **assemble and control** your own workflow.
 
 ---
 
-## 🧠 Why Makelr?
+## Why Makelr?
 
 Most AI services try to sell you answers.
 
@@ -48,7 +48,7 @@ Makelr is about **ownership, transparency, and intent-driven automation**.
 
 ---
 
-## 🔒 Safe by Default
+## Safe by Default
 
 Makelr is designed with human-in-the-loop safety:
 
@@ -62,7 +62,7 @@ You decide what runs — and when.
 
 ---
 
-## 🧩 What can you build?
+## What can you build?
 
 Examples include:
 
@@ -76,7 +76,7 @@ Templates are **starting points**, not answers.
 
 ---
 
-## 🤖 Bring Your Own LLM (BYO LLM)
+## Bring Your Own LLM (BYO LLM)
 
 Makelr supports connecting your own AI providers:
 
@@ -90,7 +90,7 @@ You control **models, limits, and costs**.
 
 ---
 
-## 🌱 Open Platform Direction
+## Open Platform Direction
 
 Makelr is being built as an open and extensible platform:
 
@@ -102,7 +102,7 @@ See [OPEN_SOURCE_POLICY.md](./OPEN_SOURCE_POLICY.md) for details.
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 (Documentation will expand)
 
@@ -115,7 +115,7 @@ See [OPEN_SOURCE_POLICY.md](./OPEN_SOURCE_POLICY.md) for details.
 
 ---
 
-## 🛠 Project Status
+## Project Status
 
 Makelr is under active development.
 
@@ -129,7 +129,7 @@ Current focus:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome:
 
@@ -144,7 +144,7 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines.
 
 ---
 
-## 🏁 Philosophy
+## Philosophy
 
 We don’t sell bots.  
 We build tools for people who build their own automation.
