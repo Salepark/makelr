@@ -5,7 +5,7 @@ You may use it internally and modify it, but you may **not** offer it as a hoste
 
 See [LICENSE.md](./LICENSE.md) for full license terms.
 
-For commercial licensing inquiries, contact: **contact@makelr.com**
+For commercial licensing inquiries, contact: **salepark@outlook.com**
 
 ---
 
